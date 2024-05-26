@@ -1,8 +1,8 @@
-## Hi there,
+### Hi there,
 
-# I'm Chloe Gavrilovic
+## I'm Chloe Gavrilovic
 
-## 👋 About Me
+### 👋 About Me
 - Pursuing a BSc at McGill University in Software Engineering and Anatomy & Cell Biology
 
 <!--
