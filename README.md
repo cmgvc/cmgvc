@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there,
+
+# I'm Chloe Gavrilovic
+
+## 👋 About Me
+- Pursuing a BSc at McGill University in Software Engineering and Anatomy & Cell Biology
 
 <!--
 **cmgvc/cmgvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
