@@ -7,7 +7,7 @@
 - Member of Rewriting the Code
 
 ### 💻 Tech Stack
-#### Languages & Data Formats
+#### Languages, Frameworks, & Libraries
 - Python
 - Java
 - JavaScript
