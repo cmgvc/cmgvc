@@ -7,8 +7,20 @@
 - Member of Rewriting the Code
 
 ### 💻 Tech Stack
-- Java | Python | C | OCaml
-- HTML | CSS | JavaScript
+#### Languages & Data Formats
+- Python
+- Java
+- JavaScript
+- React
+- C
+- HTML/CSS
+- OCaml
+
+#### Tools & Technologies
+- AWS
+- MongoDB
+- Git
+- Linux
 
 <!--
 **cmgvc/cmgvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
