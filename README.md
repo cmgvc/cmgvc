@@ -3,13 +3,16 @@
 ## I'm Chloe Gavrilovic
 
 ### 👋 About Me
-- Pursuing a BSc at McGill University in Software Engineering and Anatomy & Cell Biology
+- Software Dev II @ Dell Technologies
+- Prev Software Development Engineer Intern @ Amazon
+- McGill University Alum with a BSc in Software Engineering and Anatomy & Cell Biology
 - Member of Rewriting the Code
 
 ### 💻 Tech Stack
 #### Languages, Frameworks, & Libraries
-- Python
 - Java
+- C++
+- Python
 - JavaScript
 - React
 - C
