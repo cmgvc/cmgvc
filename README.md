@@ -13,11 +13,9 @@
 - Java
 - C++
 - Python
-- JavaScript
+- Node.js
 - React
 - C
-- HTML/CSS
-- OCaml
 
 #### Tools & Technologies
 - AWS
