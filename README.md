@@ -10,12 +10,12 @@
 
 ### 💻 Tech Stack
 #### Languages, Frameworks, & Libraries
-- Java
+- Typescript
+- React
 - C++
+- Java
 - Python
 - Node.js
-- React
-- C
 
 #### Tools & Technologies
 - AWS
