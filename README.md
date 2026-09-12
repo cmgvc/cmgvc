@@ -2,38 +2,35 @@
 
 ## I'm Chloe Gavrilovic
 
+Software engineer. I ship production systems people actually run — full-stack web, event-driven backends, and C++ that talks to hardware.
+
 ### 👋 About Me
-- Software Dev II @ Dell Technologies
-- Prev Software Development Engineer Intern @ Amazon
-- McGill University Alum with a BSc in Software Engineering and Anatomy & Cell Biology
+- Software Developer @ Dell Technologies — production C++ across hardware modules, Python AI log triage
+- Freelance — event-driven lead-gen reply agent (AWS Lambda, EventBridge, DynamoDB, Pinecone, Slack)
+- Previously Software Development Engineer Intern @ Amazon — full-stack platform for 100k+ daily accounting workflows
+- McGill University — B.Sc. Software Engineering and Biology (anatomy & cell biology)
 - Member of Rewriting the Code
+
+### 🔭 What I've been building
+- **Cadence** — budgeting product with a connector-style bank sync path (Plaid / Flinks) and a ledger that stays usable offline
+- **Plinth** — 0-to-1 full-stack code editor (TypeScript, React, Node) with real-time multi-file sync and CI/CD
+- **EMG monitoring portal** — React + Flask, 20k EMG/IMU samples per 10s for exoskeleton testing
 
 ### 💻 Tech Stack
 #### Languages, Frameworks, & Libraries
-- Typescript
+- TypeScript
 - React
+- Python
 - C++
 - Java
-- Python
 - Node.js
+- Flask
 
 #### Tools & Technologies
-- AWS
+- AWS (Lambda, EventBridge, DynamoDB, IAM)
 - MongoDB
-- Git
+- Pinecone
+- Slack
 - Linux
-
-<!--
-**cmgvc/cmgvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Git
+- CI/CD (GitHub Actions)
