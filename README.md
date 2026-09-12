@@ -2,8 +2,6 @@
 
 ## I'm Chloe Gavrilovic
 
-Software engineer. I ship production systems people actually run — full-stack web, event-driven backends, and C++ that talks to hardware.
-
 ### 👋 About Me
 - Software Developer @ Dell Technologies — production C++ across hardware modules, Python AI log triage
 - Freelance — event-driven lead-gen reply agent (AWS Lambda, EventBridge, DynamoDB, Pinecone, Slack)
