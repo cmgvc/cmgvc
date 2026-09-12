@@ -13,7 +13,7 @@ Software engineer. I ship production systems people actually run — full-stack 
 
 ### 🔭 What I've been building
 - **Cadence** — budgeting product with a connector-style bank sync path (Plaid / Flinks) and a ledger that stays usable offline
-- **Plinth** — 0-to-1 full-stack code editor (TypeScript, React, Node) with real-time multi-file sync and CI/CD
+- **[Plinth](https://github.com/cmgvc/plinth-spatial-ide)** — 0-to-1 full-stack code editor (TypeScript, React, Node) with real-time multi-file sync and CI/CD
 - **EMG monitoring portal** — React + Flask, 20k EMG/IMU samples per 10s for exoskeleton testing
 
 ### 💻 Tech Stack
